@@ -201,7 +201,7 @@ and run all cells.
 > Combine all of my charts into one image. The screenshots you shared are just screenshots of the notebook—they aren't a single image file yet.
 Example:
 
-![Sample Dashboard](combine_charts.png)
+![Sample Dashboard](images/combine_charts.png)
 
 ---
 
