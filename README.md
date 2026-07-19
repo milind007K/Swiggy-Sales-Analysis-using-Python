@@ -198,13 +198,10 @@ and run all cells.
 
 # 📷 Sample Dashboard
 
-> Add screenshots of your charts here.
-
+> Combine all of my charts into one image. The screenshots you shared are just screenshots of the notebook—they aren't a single image file yet.
 Example:
 
-```
-combine_charts.png
-```
+![Sample Dashboard](combine_charts.png)
 
 ---
 
