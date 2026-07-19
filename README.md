@@ -258,7 +258,7 @@ Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
 
 GitHub: https://github.com/milind007K
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: www.linkedin.com/in/milind007k
 
 ---
 
