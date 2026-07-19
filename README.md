@@ -203,7 +203,7 @@ and run all cells.
 Example:
 
 ```
-images/combine_charts.png
+combine_charts.png
 ```
 
 ---
