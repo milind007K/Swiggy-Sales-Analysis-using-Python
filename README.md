@@ -253,7 +253,7 @@ B.Tech Artificial Intelligence & Machine Learning
 
 Aspiring Data Analyst | Python Developer | Machine Learning Enthusiast
 
-GitHub: https://github.com/milind007K
+GitHub:  https://github.com/milind007K
 
 LinkedIn: www.linkedin.com/in/milind007k
 
